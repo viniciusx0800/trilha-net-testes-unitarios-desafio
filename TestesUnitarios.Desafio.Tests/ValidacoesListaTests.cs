@@ -44,11 +44,12 @@ public class ValidacoesListaTests
         var numeroParaProcurar = 10;
 
         // Act
-
+        
         // Assert
     }
 
     //TODO: Corrigir a anotação [Fact]
+    [Fact]
     public void DeveMultiplicarOsElementosDaListaPor2()
     {
         //TODO: Implementar método de teste

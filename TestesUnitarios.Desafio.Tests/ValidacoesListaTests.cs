@@ -52,6 +52,7 @@ public class ValidacoesListaTests
 
     //TODO: Corrigir a anotação [Fact]
     [Fact]
+    [Fact]
     public void DeveMultiplicarOsElementosDaListaPor2()
     {
         //TODO: Implementar método de teste
